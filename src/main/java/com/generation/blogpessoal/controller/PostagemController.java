@@ -23,6 +23,7 @@ import com.generation.blogpessoal.repository.PostagemRepository;
 @CrossOrigin(origins = "*", allowedHeaders = "*")
 public class PostagemController {
 
+	
 	@Autowired
 	private PostagemRepository repository;
 	
